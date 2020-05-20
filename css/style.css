@@ -1,0 +1,40 @@
+.content{
+  text-align: center;
+  /* margin: 0 auto; */
+  /* background-color: yellow; */
+}
+li {
+  list-style: none;
+}
+.form {
+  margin: 20px;
+}
+.form input {
+  width: 400px;
+
+}
+
+.button{
+  width: 70px;
+  height: 40px;
+  background-color: green;
+  color: white;
+  font-size: 20px;
+}
+
+#accordion {
+  width: 500px;
+  margin: 0 auto;
+}
+#accordion dt {
+  border-bottom: solid 1px white;
+  background-color: #ccc;
+  cursor: pointer;
+  padding: 10px;
+  font-weight: bold;
+}
+#accordion dd {
+  border: solid 1px #ccc;
+  margin: 0px;
+  padding: 10px;
+}
